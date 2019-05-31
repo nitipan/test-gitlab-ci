@@ -1,3 +1,5 @@
+[![pipeline status](https://gitlab.com/nitipan/test-gitlab-ci/badges/master/pipeline.svg)](https://gitlab.com/nitipan/test-gitlab-ci/commits/master)
+
 # TestGitlabCi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
